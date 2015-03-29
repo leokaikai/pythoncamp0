@@ -1,13 +1,15 @@
-# README
+<big>关于这本书</big>
 
-## github及gitbook学习向导  
+这本书将会记录三个月学习python的过程，以及一路上的点点滴滴
+
+<big>作者 </big> 
  
-[Guide: GitHub + gitbook](https://github.com/OpenMindClub/pythoncamp0/wiki/%5BGithub-Gitbook%5D)
+作者就是我本人啦^_^
 
-## readme是什么
+<big>写些什么内容</big>
 
-readme告诉别人如何使用你的软件，是项目的门面，一般包括如何安装，如何使用等等
+主要就是教会六个月以前的自己学会入门python，从搭建环境开始到学会编程
 
-## fork这个项目
+<big>本书的结构</big>
 
-现在，把这个项目fork到你的库里，点击右上角的fork
+采用日志记录，12周学习记录作为一个连串的整体
